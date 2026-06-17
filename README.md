@@ -49,3 +49,5 @@ The script will catch the interrupt and automatically:
 
 - Bash (any Linux/macOS terminal)
 - `python3` (the script will warn you if it's missing)
+## Demo Video
+[Watch the run-through video here](https://drive.google.com/file/d/1UK7e2AyrHBrwPO76BjtgenmHpGAH4Lpt/view?usp=sharing)
