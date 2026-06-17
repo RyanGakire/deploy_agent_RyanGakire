@@ -1,4 +1,4 @@
-# deploy_agent_GithubUsername
+# deploy_agent_RyanGakire
 
 A shell script "Project Factory" that bootstraps the Student Attendance Tracker workspace from scratch — no manual setup required.
 
